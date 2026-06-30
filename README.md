@@ -2,6 +2,9 @@
 # Hi, I'm Ayesha 👋
 
 Short bio: I'm a developer who loves building things. I work on web apps, open source, and learning new tools.
+<br>
+🌱~ I'm currently learning Full-stack Development.<br>
+💻~ I'm currently working on my Personal Portfolio.
 
 <!-- Badges: replace placeholders (REPO, TWITTER_HANDLE, WAKATIME_ID) with your values where needed -->
 

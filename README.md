@@ -32,17 +32,7 @@ Short bio: I'm a developer who loves building things. I work on web apps, open s
 
 ---
 
-## Quick notes
-- To enable the profile README, create a repository named exactly: `Ayesha0709` (owner and repo the same) and add this README.md to the default branch.
-- Replace placeholders:
-  - REPO → the repo name where your workflow file lives (for the CI badge).
-  - ci.yml → change to your workflow filename if different.
-  - TWITTER_HANDLE → your Twitter username (without @) or remove that line.
-  - WAKATIME_ID → your WakaTime user id or remove that line.
-- For github-readme-stats and streak-stats you don’t need extra setup; the images are generated from your public GitHub data.
-- For dynamic services (WakaTime, some widgets) you may need to sign up and follow the third-party README to get an ID or enable public stats.
 
-Enjoy — your badges are ready. If you want, tell me which badges to include/omit (e.g., remove Twitter/WakaTime) and give repo names or handles and I’ll generate a version with all placeholders filled.
 <!--
 **Ayesha0709/Ayesha0709** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

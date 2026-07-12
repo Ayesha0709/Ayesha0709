@@ -858,6 +858,10 @@ I'm actively practicing programming, improving my understanding of algorithms, a
 </div>
 
 ---
+## 💻 This Week I Spent My Time
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 # 📊 GitHub Analytics
 

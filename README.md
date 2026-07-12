@@ -861,6 +861,14 @@ I'm actively practicing programming, improving my understanding of algorithms, a
 ## 💻 This Week I Spent My Time
 
 <!--START_SECTION:waka-->
+
+```txt
+CSS          6 hrs 22 mins         ████████████████▓░░░░░░░░   67.10 %
+HTML         2 hrs 15 mins         ██████░░░░░░░░░░░░░░░░░░░   23.70 %
+JavaScript   51 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.01 %
+Markdown     1 min                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
+```
+
 <!--END_SECTION:waka-->
 
 # 📊 GitHub Analytics

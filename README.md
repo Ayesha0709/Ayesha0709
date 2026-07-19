@@ -1,5 +1,26 @@
 <div align="center">
+# 🐍 Contribution Snake
 
+<div align="center">
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Ayesha0709/Ayesha0709/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Ayesha0709/Ayesha0709/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="Contribution Snake"
+    src="https://raw.githubusercontent.com/Ayesha0709/Ayesha0709/output/github-contribution-grid-snake.svg"
+  />
+</picture>
+
+</div>
+
+---
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:5B21B6,20:6D28D9,40:7C3AED,60:8B5CF6,80:6366F1,100:4F46E5&section=header&text=Ayesha%20Khan&fontSize=62&fontColor=DA7D91&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20•%20BCA%20Student%20•%20AI%20Enthusiast&descAlignY=58&descSize=20"/>
 
 <br>
@@ -1060,28 +1081,7 @@ It represents:
 ### 💜 *"Great developers aren't defined by the number of repositories they have, but by the consistency with which they learn, build, and improve."*
 
 </div>
-# 🐍 Contribution Snake
 
-<div align="center">
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/Ayesha0709/Ayesha0709/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/Ayesha0709/Ayesha0709/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="Contribution Snake"
-    src="https://raw.githubusercontent.com/Ayesha0709/Ayesha0709/output/github-contribution-grid-snake.svg"
-  />
-</picture>
-
-</div>
-
----
 
 # 🎯 Current Focus
 

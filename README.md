@@ -21,6 +21,169 @@
 </div>
 
 ---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em"
+src="https://github-readme-stats.vercel.app/api?username=Ayesha0709&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&border_radius=18"/>
+
+<img height="180em"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayesha0709&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&border_radius=18"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Ayesha0709&theme=tokyonight&hide_border=true&border_radius=18"/>
+
+</div>
+
+---
+
+# 📈 Contribution Activity
+
+<div align="center">
+
+<img width="100%"
+src="https://github-readme-activity-graph.vercel.app/graph?username=Ayesha0709&theme=tokyo-night&hide_border=true&radius=18"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Ayesha0709&theme=tokyonight&no-frame=true&no-bg=true&margin-w=20&row=2&column=4"/>
+
+</div>
+
+---
+
+# 📚 GitHub Profile Summary
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ayesha0709&theme=tokyonight"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ayesha0709&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ayesha0709&theme=tokyonight"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ayesha0709&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ayesha0709&theme=tokyonight&utcOffset=5.5"/>
+
+</div>
+
+---
+
+# ⚡ Development Dashboard
+
+<div align="center">
+
+| Metric | Current Focus |
+|:--|:--|
+| 💻 Main Language | Python |
+| 🌐 Frontend | HTML • CSS • JavaScript |
+| ⚛️ Currently Learning | React.js |
+| 🟢 Backend | Node.js & Express |
+| 🗄️ Database | MongoDB & MySQL |
+| 🤖 AI | Prompt Engineering & AI Applications |
+| ☁️ Cloud | AWS & Cloud Fundamentals |
+| 🛡️ Security | Secure Web Development |
+| 🌍 Version Control | Git & GitHub |
+
+</div>
+
+---
+
+# 🛠 Technology Ecosystem
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,python,java,c,cpp"/>
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,mysql,firebase"/>
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,figma,vercel,netlify"/>
+
+</div>
+
+---
+
+# 📅 2026 Development Goals
+
+<div align="center">
+
+| Goal | Progress |
+|:--|:--:|
+| 💻 Daily Coding | 🟣 In Progress |
+| 📚 Improve DSA | 🟣 Ongoing |
+| 🌐 Build Full Stack Projects | 🟣 Ongoing |
+| 🤖 Learn AI Development | 🟣 Ongoing |
+| ☁️ Explore Cloud Computing | 🟣 Learning |
+| 🌍 First Open Source Contribution | 🟣 Preparing |
+| 🚀 Strengthen GitHub Portfolio | 🟣 Active |
+| 💼 Internship Preparation | 🟣 Ongoing |
+
+</div>
+
+---
+
+# 📖 Current Learning Journey
+
+```text
+HTML & CSS
+      │
+      ▼
+JavaScript
+      │
+      ▼
+React.js
+      │
+      ▼
+Node.js
+      │
+      ▼
+Express.js
+      │
+      ▼
+MongoDB
+      │
+      ▼
+REST APIs
+      │
+      ▼
+Cloud Computing
+      │
+      ▼
+Artificial Intelligence
+```
+
+---
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:5B21B6,20:6D28D9,40:7C3AED,60:8B5CF6,80:6366F1,100:4F46E5&section=header&text=Ayesha%20Khan&fontSize=62&fontColor=DA7D91&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20•%20BCA%20Student%20•%20AI%20Enthusiast&descAlignY=58&descSize=20"/>
 
 <br>
@@ -891,168 +1054,6 @@ Python       0 secs                ░░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
-
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api?username=Ayesha0709&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&border_radius=18"/>
-
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayesha0709&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&border_radius=18"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Ayesha0709&theme=tokyonight&hide_border=true&border_radius=18"/>
-
-</div>
-
----
-
-# 📈 Contribution Activity
-
-<div align="center">
-
-<img width="100%"
-src="https://github-readme-activity-graph.vercel.app/graph?username=Ayesha0709&theme=tokyo-night&hide_border=true&radius=18"/>
-
-</div>
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Ayesha0709&theme=tokyonight&no-frame=true&no-bg=true&margin-w=20&row=2&column=4"/>
-
-</div>
-
----
-
-# 📚 GitHub Profile Summary
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ayesha0709&theme=tokyonight"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ayesha0709&theme=tokyonight"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ayesha0709&theme=tokyonight"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ayesha0709&theme=tokyonight"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ayesha0709&theme=tokyonight&utcOffset=5.5"/>
-
-</div>
-
----
-
-# ⚡ Development Dashboard
-
-<div align="center">
-
-| Metric | Current Focus |
-|:--|:--|
-| 💻 Main Language | Python |
-| 🌐 Frontend | HTML • CSS • JavaScript |
-| ⚛️ Currently Learning | React.js |
-| 🟢 Backend | Node.js & Express |
-| 🗄️ Database | MongoDB & MySQL |
-| 🤖 AI | Prompt Engineering & AI Applications |
-| ☁️ Cloud | AWS & Cloud Fundamentals |
-| 🛡️ Security | Secure Web Development |
-| 🌍 Version Control | Git & GitHub |
-
-</div>
-
----
-
-# 🛠 Technology Ecosystem
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,python,java,c,cpp"/>
-
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,mysql,firebase"/>
-
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,figma,vercel,netlify"/>
-
-</div>
-
----
-
-# 📅 2026 Development Goals
-
-<div align="center">
-
-| Goal | Progress |
-|:--|:--:|
-| 💻 Daily Coding | 🟣 In Progress |
-| 📚 Improve DSA | 🟣 Ongoing |
-| 🌐 Build Full Stack Projects | 🟣 Ongoing |
-| 🤖 Learn AI Development | 🟣 Ongoing |
-| ☁️ Explore Cloud Computing | 🟣 Learning |
-| 🌍 First Open Source Contribution | 🟣 Preparing |
-| 🚀 Strengthen GitHub Portfolio | 🟣 Active |
-| 💼 Internship Preparation | 🟣 Ongoing |
-
-</div>
-
----
-
-# 📖 Current Learning Journey
-
-```text
-HTML & CSS
-      │
-      ▼
-JavaScript
-      │
-      ▼
-React.js
-      │
-      ▼
-Node.js
-      │
-      ▼
-Express.js
-      │
-      ▼
-MongoDB
-      │
-      ▼
-REST APIs
-      │
-      ▼
-Cloud Computing
-      │
-      ▼
-Artificial Intelligence
-```
-
----
 
 # 🌟 GitHub Philosophy
 

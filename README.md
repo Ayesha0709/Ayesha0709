@@ -1047,10 +1047,8 @@ I'm actively practicing programming, improving my understanding of algorithms, a
 <!--START_SECTION:waka-->
 
 ```txt
-CSS          2 hrs 26 mins         ██████████████████▒░░░░░░   72.81 %
-HTML         39 mins               █████░░░░░░░░░░░░░░░░░░░░   19.77 %
-JavaScript   7 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 %
-Other        7 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 %
+CSS    1 hr 57 mins          ████████████████████▒░░░░   81.29 %
+HTML   26 mins               ████▓░░░░░░░░░░░░░░░░░░░░   18.71 %
 ```
 
 <!--END_SECTION:waka-->

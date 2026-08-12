@@ -1047,10 +1047,7 @@ I'm actively practicing programming, improving my understanding of algorithms, a
 <!--START_SECTION:waka-->
 
 ```txt
-HTML    34 mins               ████████████████▒░░░░░░░░   65.76 %
-CSS     17 mins               ████████▒░░░░░░░░░░░░░░░░   33.45 %
-Other   0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.70 %
-INI     0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->

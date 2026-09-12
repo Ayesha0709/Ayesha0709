@@ -1047,8 +1047,7 @@ I'm actively practicing programming, improving my understanding of algorithms, a
 <!--START_SECTION:waka-->
 
 ```txt
-C       3 mins                ██████████████████████▒░░   89.81 %
-Other   0 secs                ██▓░░░░░░░░░░░░░░░░░░░░░░   10.19 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
